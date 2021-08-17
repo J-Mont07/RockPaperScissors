@@ -1,3 +1,6 @@
+#Main File to run the game
+#Face off against the Computer
+#Prints the score at the end of the program
 import computer as c
 import functions as f
 #start of round...
